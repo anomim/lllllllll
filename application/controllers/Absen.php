@@ -12,6 +12,6 @@ class Absen extends CI_Controller {
     }
     public function kk(Type $var = null)
     {
-        # hai
+        # ok
     }
 }
