@@ -6,4 +6,8 @@ class Absen extends CI_Controller {
     {
         $this->load->view("absensiswa");
     }
+    public function FunctionName(Type $var = null)
+    {
+        # code...
+    }
 }
