@@ -10,4 +10,8 @@ class Absen extends CI_Controller {
     {
         # code...
     }
+    public function kk(Type $var = null)
+    {
+        # code...
+    }
 }
